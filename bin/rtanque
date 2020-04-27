@@ -3,7 +3,7 @@ require 'rubygems'
 require 'thor'
 require 'rtanque'
 require 'rtanque/runner'
-require 'octokit'
+#require 'octokit'
 
 class RTanqueCLI < Thor
   include Thor::Actions
